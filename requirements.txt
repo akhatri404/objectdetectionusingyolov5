@@ -1,6 +1,7 @@
 streamlit
 transformers
 pipeline
+yolov5
 git+https://github.com/ultralytics/yolov5.git
 opencv-python
 torch
