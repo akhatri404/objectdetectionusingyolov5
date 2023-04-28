@@ -1,0 +1,9 @@
+streamlit
+transformers
+pipeline
+git+https://github.com/ultralytics/yolov5.git
+opencv-python
+torch
+psutil
+torchvision
+pillow
