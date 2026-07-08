@@ -1,10 +1,5 @@
-streamlit
-transformers
-pipeline
-yolov5
-git+https://github.com/ultralytics/yolov5.git
-opencv-python
-torch
-psutil
-torchvision
-pillow
+streamlit>=1.32
+ultralytics>=8.2
+opencv-python-headless>=4.9
+pillow>=10.0
+numpy>=1.26
